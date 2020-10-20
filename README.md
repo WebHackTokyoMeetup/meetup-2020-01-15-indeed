@@ -22,4 +22,4 @@ Fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdoOkpzxAl37VTfF
 
 # How to contribute
 
-Email to [contact.webhack@gmail.com](mailto:contact.webhack@gmail.com?subject=[WebHack] What I want to contribute is ...) and we will reach out!
+The first step is to read our [Contributing Guidelines](https://github.com/WebHackTokyoMeetup/meetups/blob/master/CONTRIBUTING.md). Then, email to contact.webhack@gmail.com with a brief self-introduction and the intiative of contributing. We will reach out!
