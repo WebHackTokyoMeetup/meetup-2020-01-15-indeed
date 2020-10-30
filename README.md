@@ -10,11 +10,11 @@ We are **voluntary** organizers who want to utilize our skills and go beyond our
 
 # What we do 
 
-We organize and facilitate two-hour-long meet-ups that contain presentations by engineers and engineering managers on various topics and Q&A for further discussions, as well as networking for future connections.
+We organize and facilitate two-hour-long meetups that contain presentations by engineers and engineering managers on various topics and Q&A for further discussions, as well as networking for future connections.
 
 # Who we are for
 
-The meet-ups are designed for any engineer or engineering manager who wishes to further their career development, learn from industrial experts, and connect with people across the entire IT industry.
+The meetups are designed for any engineer or engineering manager who wishes to further their career development, learn from industrial experts, and connect with people across the entire IT industry.
 
 # How to give a presentation
 
