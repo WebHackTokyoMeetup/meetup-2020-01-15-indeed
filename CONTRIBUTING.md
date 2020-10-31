@@ -52,7 +52,7 @@ Congratulations! You have successfully finished the first task!
 To gain the big picture, you can join the organizer meetings. There are two types of meetings - post-event retrospectives and monthly sync-ups. It's encouraged to join each type at least once. On those meetings, you will 
 
 1. Do a brief self-introduction on the first meeting you join
-2. Observe how other organizers discuss in-progress prodcuts. 
+2. Observe how other organizers discuss in-progress products. 
 
 Feel free to speak up and share your thoughts on the meetings.  
 
